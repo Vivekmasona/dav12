@@ -1,0 +1,11 @@
+{
+  "name": "vad-web-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@ricky0123/vad-web": "^1.0.0"
+  }
+}
